@@ -1,4 +1,4 @@
-# Group-Pattern-Miner
+# Group Pattern Miner
 
 Find groups of objects that move together in trajectory data.
 
